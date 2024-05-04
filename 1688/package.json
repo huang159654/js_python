@@ -1,0 +1,52 @@
+{
+    "url": "https://data.p4psearch.1688.com/data/ajax/get_premium_offer_list.json",
+    "raw_url": "https://data.p4psearch.1688.com/data/ajax/get_premium_offer_list.json?beginpage=1&asyncreq=1&keywords=%E8%BF%90%E5%8A%A8%E6%88%B7%E5%A4%96&sortType=&descendOrder=&province=&city=&priceStart=&priceEnd=&dis=&ptid=hrae640f60d093e2&hpageId=old-sem-pc-list&spm=a312h.2018_new_sem.dh_004.submit&cosite=baidujj_pz&trackid=885662561117990122602&location=re&exp=zgc_tab%3AA&provinceValue=%E6%89%80%E5%9C%A8%E5%9C%B0%E5%8C%BA&p_rs=true&pageid=8de72479ctN6GP&p4pid=7c947ad87f904&salt=16974681135515&sign=9f68c70a46400e393198914abc509bb6&callback=jsonp_1697468113552_45578&_=1697468113552",
+    "method": "get",
+    "cookies": {
+        "cna": "UvgmHQGEvV0CAXAv8H7srl+q",
+        "xlly_s": "1",
+        "taklid": "86c699a7d59440edb4e0f4a42b1f1408",
+        "__cn_logon__": "false",
+        "cookie2": "16e184f8a5c16dc878c13fa6a5d4aaf3",
+        "t": "6f000c385423d57b257a88585645873e",
+        "_tb_token_": "ebeed1ea8b637",
+        "_m_h5_tk": "be42a5a67ba5f103c0630be3d8fe56ac_1697553373383",
+        "_m_h5_tk_enc": "09dc649f6816b72849b9a8dd36087e68",
+        "isg": "BAkJZLI8iJasiHRn5KGEMvT2GDVjVv2I1nXYsat-hfAv8ikE86YNWPcjNFbEkZXA",
+        "tfstk": "d8T20G_0Lq32nPBjvibNzmjeoXbAWwHCmF61sCAGGtXm6CTPsd97CiXffO-P16wgICDvQFWk9jBsjG_wbpKHci_6CN5MdZj9cO6fQNR9LbMIR2OvMNQmdXgIsnAAWFv3Tr3BMIQOSvMIR2aw4IA1UX8oXyhGfvA1EEdQ2gMULdBzSPPdgiXnJTzgSU52R9XZPRClC1T90RqGm_CPdblP5c2Zf",
+        "l": "fBQAk2TVPr9oZs2pBOfaFurza77OSIRYjuPzaNbMi9fP9a1B5PMhW1nUFeY6C3GVF6ryR3RpoAReBeYBqQd-nxvO-8aKbckmndLHR35.."
+    },
+    "headers": {
+        "authority": "data.p4psearch.1688.com",
+        "accept": "*/*",
+        "accept-language": "zh-CN,zh;q=0.9",
+        "cache-control": "no-cache",
+        "cookie": "cna=UvgmHQGEvV0CAXAv8H7srl+q; xlly_s=1; taklid=86c699a7d59440edb4e0f4a42b1f1408; __cn_logon__=false; cookie2=16e184f8a5c16dc878c13fa6a5d4aaf3; t=6f000c385423d57b257a88585645873e; _tb_token_=ebeed1ea8b637; _m_h5_tk=be42a5a67ba5f103c0630be3d8fe56ac_1697553373383; _m_h5_tk_enc=09dc649f6816b72849b9a8dd36087e68; isg=BAkJZLI8iJasiHRn5KGEMvT2GDVjVv2I1nXYsat-hfAv8ikE86YNWPcjNFbEkZXA; tfstk=d8T20G_0Lq32nPBjvibNzmjeoXbAWwHCmF61sCAGGtXm6CTPsd97CiXffO-P16wgICDvQFWk9jBsjG_wbpKHci_6CN5MdZj9cO6fQNR9LbMIR2OvMNQmdXgIsnAAWFv3Tr3BMIQOSvMIR2aw4IA1UX8oXyhGfvA1EEdQ2gMULdBzSPPdgiXnJTzgSU52R9XZPRClC1T90RqGm_CPdblP5c2Zf; l=fBQAk2TVPr9oZs2pBOfaFurza77OSIRYjuPzaNbMi9fP9a1B5PMhW1nUFeY6C3GVF6ryR3RpoAReBeYBqQd-nxvO-8aKbckmndLHR35..",
+        "pragma": "no-cache",
+        "referer": "https://p4psearch.1688.com/",
+        "sec-ch-ua": "\"Chromium\";v=\"118\", \"Google Chrome\";v=\"118\", \"Not=A?Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "sec-fetch-dest": "script",
+        "sec-fetch-mode": "no-cors",
+        "sec-fetch-site": "same-site",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+    },
+    "queries": {
+        "beginpage": "1",
+        "asyncreq": "1",
+        "keywords": "运动户外",
+        "ptid": "hrae640f60d093e2",
+        "spm": "a2638t.b_78128457.szyxdivertpopup.25.3836436cRqM1NO",
+        "hpageId": "old-sem-pc-list",
+        "cosite": "baidujj_pz",
+        "trackid": "885662561117990122602",
+        "location": "re",
+        "exp": "zgc_tab:A",
+        "pageid": "17cc3471tVj4QJ",
+        "p4pid": "283573b37ff94",
+        "salt": "16974631245835",
+        "sign": "9f68c70a46400e393198914abc509bb6"
+  },
+    "compressed": true
+}
